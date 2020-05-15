@@ -4,3 +4,4 @@ Tugas 1. Main,
       3. InterfaceDuck,
       4. Java Database,
       5. JDBC-MVC.
+      6. ContactList
